@@ -1,1 +1,1 @@
-Contain my works since 2016, some of the repositories is in private 'cause of copyright.
+Contain my works since 2016, but some of the repositories are private because of copyright.
